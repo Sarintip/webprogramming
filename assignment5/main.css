@@ -1,0 +1,16 @@
+body{
+    background-color: rosybrown;
+}
+@import url('https://fonts.googleapis.com/css?family=Kanit&display=swap');
+textarea{
+    font-family: 'Kanit', sans-serif;
+    font-size: large;
+}
+div{
+    font-family: 'Kanit', sans-serif;
+    font-size: large;
+}
+button{
+    font-family: 'Kanit', sans-serif;
+    font-size: large;
+}

@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit&display=swap');
+body{
+    background-color: wheat;
+}
+fieldset{
+    font-family: 'Kanit', sans-serif;
+    font-size: large;
+}
+input
+{
+    font-family: 'Kanit', sans-serif;
+    font-size: large;
+}
